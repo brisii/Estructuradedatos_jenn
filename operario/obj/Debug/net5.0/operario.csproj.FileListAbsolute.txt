@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.exe
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.deps.json
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.dll
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\ref\operario.dll
+C:\Users\LENOVO\Desktop\Ejercicios\operario\bin\Debug\net5.0\operario.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.dll
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\ref\operario.dll
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\operario\obj\Debug\net5.0\operario.genruntimeconfig.cache

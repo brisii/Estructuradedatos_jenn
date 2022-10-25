@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.exe
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.deps.json
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.dll
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\ref\componentes.dll
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\bin\Debug\net5.0\componentes.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.dll
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\ref\componentes.dll
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.pdb
+C:\Users\LENOVO\Desktop\Ejercicios\componentes\obj\Debug\net5.0\componentes.genruntimeconfig.cache
